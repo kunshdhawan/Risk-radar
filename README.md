@@ -76,7 +76,7 @@ Risk-Radar/
 └── training_report.txt
 
 # Requirements
- - Software Requirements:-
+ * Software Requirements:-
   - Python 3.8 or higher
   - Flask
   - pefile
@@ -89,7 +89,7 @@ Risk-Radar/
   - imbalanced-learn
   - tabulate
 
- - Hardware Requirements
+ * Hardware Requirements
   - Minimum 16 GB RAM
   - Intel i7 processor or higher recommended
   - Virtualization support (if extended sandboxing is implemented)
@@ -126,3 +126,10 @@ Risk-Radar/
  - REST API integration
  - Docker-based deployment
  - Cloud-based analysis
+
+
+<img width="1015" height="611" alt="image" src="https://github.com/user-attachments/assets/ef9eebe0-f98a-498f-a516-69ee1ab40acc" />
+<img width="993" height="651" alt="image" src="https://github.com/user-attachments/assets/2f78b71f-1086-4ef1-84e1-98856134c943" />
+<img width="1011" height="683" alt="image" src="https://github.com/user-attachments/assets/56d548cd-f585-4a71-a422-a28678731834" />
+
+
